@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in San Diego, United States
 * ✉️  You can contact me at [miloclibby@gmail.com](mailto:miloclibby@gmail.com)
-* 🧠  I'm learning I'm learning everything to do with AI
+* 🧠  I'm learning everything to do with AI
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
